@@ -1,0 +1,3 @@
+/home/taiga/Desktop/U/Memoria/CMakeFiles/mesher_roi.dir
+/home/taiga/Desktop/U/Memoria/CMakeFiles/edit_cache.dir
+/home/taiga/Desktop/U/Memoria/CMakeFiles/rebuild_cache.dir
